@@ -1,0 +1,24 @@
+{
+  "name": "sit725-2025-t2-prac4",
+  "version": "1.0.0",
+  "description": "Practice 4 - SIT725 2025 T2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouthaAshaAbdi/sit725-2025-t2-prac4.git"
+  },
+  "author": "Southa Asha Abdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SouthaAshaAbdi/sit725-2025-t2-prac4/issues"
+  },
+  "homepage": "https://github.com/SouthaAshaAbdi/sit725-2025-t2-prac4#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^5.8.0"
+  }
+}
